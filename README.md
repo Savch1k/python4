@@ -59,6 +59,6 @@
 
 ### Использованные источники информации
 
-1. https://habr.com/ru/companies/otus/articles/727590/
-2. https://ru.wikipedia.org/wiki/Замыкание_(программирование)
-3. https://habr.com/ru/articles/781866/
+1. [Декораторы в Python: пошаговое руководство](https://habr.com/ru/companies/otus/articles/727590/)
+2. [Замыкание(программирование)](https://ru.wikipedia.org/wiki/Замыкание_(программирование))
+3. [Замыкание и декораторыв Python](https://habr.com/ru/articles/781866/)
